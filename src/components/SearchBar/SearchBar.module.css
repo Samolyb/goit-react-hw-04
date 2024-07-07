@@ -1,0 +1,38 @@
+.formik {
+    display: flex;
+}
+
+.form {
+    margin: 0 auto;
+}
+
+.input {
+    margin-right: 8px;
+    width: 300px;
+    height: 20px;
+    padding: 6px;
+    font-size: 16px;
+    border: 2px solid #727070;
+    border-radius: 6px;
+}
+
+.input:hover {
+    border: 2px solid #3d3a3a;
+}
+
+.btn {
+    cursor: pointer;
+    width: 80px;
+    height: 34px;
+    font-size: 16px;
+    color: white;
+    background-color: #2f4c68;
+    border: 2px solid #0b3359;
+    border-radius: 6px;
+}
+
+.btn:hover {
+    color: white(245, 245, 245);
+    background-color: #548adb;
+    border: 2px solid #383636;
+}
